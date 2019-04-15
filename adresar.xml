@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Adresar SYSTEM "adresar.dtd">
+<Adresar>
+  <Osoba>
+    <PunoIme>
+      <Ime> Natalija</Ime>
+      <SrednjeIme> Igor </SrednjeIme>
+      <Prezime> Spaic</Prezime>
+     </PunoIme>
+    <DatumRodjenja>
+      <Dan> 5 </Dan>
+      <Mesec> 5 </Mesec>
+      <Godina> 1997 </Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica> Brace Srnic</Ulica>
+      <Broj> 13 </Broj>
+      <Grad> Beograd </Grad>
+      <Drzava> Srbija </Drzava>
+    </Adresa>
+    <Telefon tip="fiksni"> 0113046476 </Telefon>
+    <Email tip="privatni"> natalijaspaic97@gmail.com</Email>
+  </Osoba>
+  
+  <Osoba>
+    <PunoIme>
+      <Ime> Petar</Ime>
+      <SrednjeIme> Jovan </SrednjeIme>
+      <Prezime> Peric</Prezime>
+     </PunoIme>
+    <DatumRodjenja>
+      <Dan> 18</Dan>
+      <Mesec> 4 </Mesec>
+      <Godina> 1997 </Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica>Brace Jerkovic</Ulica>
+      <Broj> 8 </Broj>
+      <Grad> Beograd </Grad>
+      <Drzava> Srbija </Drzava>
+    </Adresa>
+    <Telefon tip="fiksni"> 0111111111</Telefon>
+    <Email tip="privatni">petarperic@gmail.com</Email>
+  </Osoba>
+  
+    <Osoba>
+    <PunoIme>
+      <Ime> Jovan </Ime>
+      <SrednjeIme> Srdjan </SrednjeIme>
+      <Prezime> Jovanovic </Prezime>
+     </PunoIme>
+    <DatumRodjenja>
+      <Dan> 11 </Dan>
+      <Mesec> 4 </Mesec>
+      <Godina> 1996 </Godina>
+    </DatumRodjenja>
+    <Adresa tip="stalna">
+      <Ulica> Borivoja Stevanovica</Ulica>
+      <Broj> 20 </Broj>
+      <Grad> Beograd </Grad>
+      <Drzava> Srbija </Drzava>
+    </Adresa>
+    <Telefon tip="fiksni"> 0112222222</Telefon>
+    <Email tip="privatni">jovanjovanovic@gmail.com</Email>
+  </Osoba>
+  
+    <Kompanija>
+    <Naziv> Lidl</Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Vojislava Ilica</Ulica>
+      <Broj>100</Broj>
+      <Grad> Beograd</Grad>
+      <Drzava> Srbija </Drzava>
+     </Adresa>
+    <Telefon tip="fiksni"> 011 123456</Telefon>
+    <Email tip="privatni">lidl@gmail.com</Email>
+  </Kompanija>
+
+ <Kompanija>
+    <Naziv> Ikea </Naziv>
+    <Adresa tip="stalna">
+      <Ulica> Kneza Milosa</Ulica>
+      <Broj>12</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+     </Adresa>
+    <Telefon tip="fiksni"> 011123456</Telefon>
+    <Email tip="privatni">ikea@gmail.com</Email>
+  </Kompanija>
+
+ <Kompanija>
+    <Naziv> Sekt </Naziv>
+    <Adresa tip="stalna">
+      <Ulica>Brace Srnic</Ulica>
+      <Broj>13</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+     </Adresa>
+    <Telefon tip="fiksni">0113475162</Telefon>
+    <Email tip="privatni">sekt@gmail.com</Email>
+  </Kompanija>
+</Adresar>
